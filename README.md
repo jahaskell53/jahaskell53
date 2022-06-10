@@ -1,4 +1,5 @@
-### Hi there 👋
+### Jakobi
+Currently learning Svelte, Microservices, and CDNs.
 
 <!--
 **jahaskell53/jahaskell53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
